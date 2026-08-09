@@ -1,6 +1,6 @@
-# Stephen Woru Wainaina — Cybersecurity Portfolio
+# Stephen Woru — Cybersecurity Portfolio
 
-Personal cybersecurity portfolio for Stephen Woru Wainaina.
+Personal cybersecurity portfolio for Stephen Woru.
 
 ## Built with
 - HTML5
